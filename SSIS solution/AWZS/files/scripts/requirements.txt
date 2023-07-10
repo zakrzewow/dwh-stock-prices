@@ -1,0 +1,5 @@
+pandas==1.5.3
+requests==2.31.0
+yfinance==0.2.20
+# pip install blpapi --index-url=https://bcms.bloomberg.com/pip/simple/
+# pip install xbbg
